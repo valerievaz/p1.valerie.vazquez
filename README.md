@@ -51,4 +51,6 @@ With this current design, one can make the mistake of thinking the floors are in
 Some of the improvements to this design is not having too many things going on where the emergency buttons are. As well as making the buttons in ascending order and explaining the difference between the ground and first floor for international people. I kept my design as simple as possible because too many features make it hard to use or add confusion and by having minimal buttons/colors/designs it can be a simpler experience for the user.
 
 
+Demo gif just incase:![p1 valeria vazquez example](https://user-images.githubusercontent.com/80940481/192621612-62c61e0c-b5a1-4c32-9f56-893942e91bd6.gif)
+
 
