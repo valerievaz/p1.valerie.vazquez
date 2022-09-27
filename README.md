@@ -22,7 +22,7 @@ Some issues with this design are the way the floors ascend, it can get confusing
 
 The design is not the worst because there is braille accommodation for people with special needs. There is also a black label containing the specific floor to the button which is nice to further avoid confusion. There is also a paper on the side of the buttons explaining what each floor is which is useful for nonstudents who won't know what each floor is. The button also lights up when you press it. The emergency button is also on the bottom of the elevator buttons which I think is considerate to people in wheelchairs who can't necessarily reach the top of the buttons.
 
-![p1 valeria vazquez](https://user-images.githubusercontent.com/80940481/192620573-3b45b9fe-c7d3-49a6-9ba1-327ee0c7129e.png =250x250)
+![p1 valeria vazquez|250x250](https://user-images.githubusercontent.com/80940481/192620573-3b45b9fe-c7d3-49a6-9ba1-327ee0c7129e.png)
 
 ## B Questions ## 
 
