@@ -7,7 +7,7 @@ Links
 Presentation Page:  https://valerievaz.github.io/demo.html
 
 
-GitHub Repository:
+GitHub Repository: https://github.com/valerievaz/valerievaz.github.io
 
 
 Demo: 
