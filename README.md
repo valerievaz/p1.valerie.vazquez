@@ -10,9 +10,6 @@ Presentation Page:  https://valerievaz.github.io/demo.html
 GitHub Repository: https://github.com/valerievaz/valerievaz.github.io
 
 
-Demo: 
-
-
 ## C Questions ##
 
 
