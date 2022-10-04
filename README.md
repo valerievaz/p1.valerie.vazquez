@@ -59,6 +59,6 @@ Some of the improvements to this design is not having too many things going on w
 <canvas data-processing-sources="elevatorproj.pde"></canvas>
 
 
-Demo gif just incase:![p1 valeria vazquez example](https://user-images.githubusercontent.com/80940481/192621612-62c61e0c-b5a1-4c32-9f56-893942e91bd6.gif)
+Demo gif:![p1 valeria vazquez example](https://user-images.githubusercontent.com/80940481/192621612-62c61e0c-b5a1-4c32-9f56-893942e91bd6.gif)
 
 
