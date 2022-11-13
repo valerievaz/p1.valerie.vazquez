@@ -2,6 +2,8 @@
 <script type="text/javascript" src="processing.js"></script>
 # Report
 
+link to video (too large to submit as a file): https://drive.google.com/file/d/1H2ikzyS7VfqGr9DNVLIBAiTGdSi6FWCz/view
+
 https://valerievaz.github.io/
 
 # To get a C , you need to:
