@@ -3,7 +3,7 @@
 # Report
 
 link to video (too large to submit as a file): https://drive.google.com/file/d/1H2ikzyS7VfqGr9DNVLIBAiTGdSi6FWCz/view
-
+not updated to my new submission, I changed the news API but otherwise its the same. 
 https://valerievaz.github.io/
 
 # To get a C , you need to:
